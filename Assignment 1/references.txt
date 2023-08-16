@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/45816070/replacing-all-values-of-numpy-array-which-are-smaller-than-the-n-largest-item
+https://stackoverflow.com/questions/5891410/numpy-array-initialization-fill-with-identical-values
